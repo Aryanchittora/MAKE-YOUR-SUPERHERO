@@ -6,7 +6,8 @@
 #myCanvas
 {
     border: 10px groove red;
-    background-color: white; 
+	background-color: white; 
+	margin-left: 270px;
 }
 
 h1
